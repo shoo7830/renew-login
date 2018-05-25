@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box; }
+
+html {
+  width: 100%;
+  height: 100%; }
+
+body {
+  width: 100%;
+  height: 100%;
+  background: #f3f2f0;
+  font-size: 16px; }
+
+form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  background-color: #fff;
+  margin: 0;
+  padding: 30px;
+  border: solid 1px #d0d0d0; }
+  form .input-group {
+    margin: 0 0 12px;
+    padding: 0;
+    position: relative; }
+    form .input-group:last-of-type {
+      margin-bottom: 0; }
+    form .input-group input[type="text"],
+    form .input-group input[type="password"] {
+      height: 50px;
+      line-height: 50px;
+      width: 100%;
+      border: 1px solid #c8c8c8;
+      text-indent: 20px;
+      font-size: 14px; }
+      form .input-group input[type="text"]:focus,
+      form .input-group input[type="password"]:focus {
+        border: 1px solid #ddf1fa;
+        background: #f3fafd; }
+    form .input-group .submit-button {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      text-align: center;
+      width: 100%;
+      background: #2c86dc;
+      color: #fff;
+      height: 70px;
+      line-height: 60px;
+      font-size: 18px; }
+      form .input-group .submit-button:hover {
+        background: #1277d5;
+        cursor: pointer; }
+
+/*# sourceMappingURL=style.css.map */
