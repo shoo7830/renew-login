@@ -1,0 +1,8 @@
+{
+  "name": "renew-hiworks-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shoo7830/renew-login.git",
+  "author": "KimIn Suk <shoo7830@gmail.com>",
+  "license": "MIT"
+}
