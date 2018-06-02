@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Animated SVG hiworks Login</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+<template>
+  <div id="app">
     <form>
         <section>
             <div>
@@ -25,6 +17,20 @@
             
         </section>
     </form>
-    <script src="js/action.js"></script>
-</body>
-</html>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'app',
+  data () {
+    return {
+      msg: 'Welcome to Your Vue.js App'
+    }
+  }
+}
+</script>
+
+<style lang="scss">
+@import './assets/css/style.scss';
+</style>

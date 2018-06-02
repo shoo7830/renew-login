@@ -1,5 +1,18 @@
-# CSS, JS, SVG를 이용해 로그인폼 개선하기
+# renew-hiworks-login
 
-## 레퍼런스
-* 링크1
-* 링크2
+> renew login form with vue.js
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
