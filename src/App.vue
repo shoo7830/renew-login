@@ -6,10 +6,11 @@
 
 <script>
 import LoginForm from './components/LoginForm.vue';
+
 export default {
   name: 'app',
   components:{
-    LoginForm,
+    LoginForm
   },
   data () {
     return {
@@ -19,6 +20,4 @@ export default {
 }
 </script>
 
-<style lang="scss">
-@import './assets/css/style.scss';
-</style>
+<style lang="scss" src="./assets/css/style.scss"></style>

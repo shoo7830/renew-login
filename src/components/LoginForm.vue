@@ -1,9 +1,6 @@
 <template>
     <form>
         <section>
-            <div>
-                <!-- SVG 영역 -->
-            </div>
             <div class="input-group">
                 <input type="text" placeholder="아이디">
             </div>
@@ -19,6 +16,7 @@
 </template>
 
 <script>
+
 export default {
     
 }
