@@ -1,6 +1,11 @@
 <template>
   <div id="app">
-    <login-form></login-form>
+    <form>
+      <section>
+        <login-form></login-form>
+      </section>
+    </form>
+    
   </div>
 </template>
 
