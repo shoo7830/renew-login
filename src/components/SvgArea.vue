@@ -58,12 +58,30 @@ svg {
 .cls-1{
     fill:#d2eff7;
 }
-.cls-2,.cls-5{fill:#7d5340;}
-.cls-3{fill:#54372d;}
-.cls-4,.cls-6{fill:#fff4e9;}
-.cls-5,.cls-6,.cls-8{stroke:#54372d;stroke-miterlimit:10;}
-.cls-5{stroke-linecap:round;stroke-width:4.19px;}
-.cls-6,.cls-8{stroke-width:4px;}
-.cls-7{fill:#f2982c;}
-.cls-8,.cls-9{fill:#fff;}
+.cls-2,.cls-5{
+    fill:#7d5340;
+}
+.cls-3{
+    fill:#54372d;
+}
+.cls-4,.cls-6{
+    fill:#fff4e9;
+}
+.cls-5,.cls-6,.cls-8{
+    stroke:#54372d;
+    stroke-miterlimit:10;
+}
+.cls-5{
+    stroke-linecap:round;
+    stroke-width:4.19px;
+}
+.cls-6,.cls-8{
+    stroke-width:4px;
+}
+.cls-7{
+    fill:#f2982c;
+}
+.cls-8,.cls-9{
+    fill:#fff;
+}
 </style>
