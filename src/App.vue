@@ -25,10 +25,6 @@ export default {
       
     }
   },
-
-  methods: function() {
-    
-  }
 }
 </script>
 
