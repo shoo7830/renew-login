@@ -1,4 +1,4 @@
-# renew-hiworks-login
+# renew-login
 
 > renew login form with vue.js
 
@@ -15,4 +15,17 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## SVG
+
+- SVG 영역 설정
+```
+<svg id="owl" viewBox="0 0 380 380"  xmlns="http://www.w3.org/2000/svg">
+...
+</svg>
+```
+
+- 사용한 주요 SVG 태그
+    * `g`
+    * `circle`
+    * `path`
+    * `polygon`
