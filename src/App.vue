@@ -22,9 +22,14 @@ export default {
   },
   data () {
     return {
-      
+      x: 0,
+      y: 0
     }
   },
+
+  methods() {
+    
+  }
 }
 </script>
 
